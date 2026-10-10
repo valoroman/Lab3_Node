@@ -1,0 +1,44 @@
+{
+  "name": "project_alpha",
+  "type": "folder",
+  "sizeBytes": null,
+  "updatedAt": "2026-09-13T10:00:00Z",
+  "isHidden": false,
+  "extension": null,
+  "contents": [
+    {
+      "name": ".env",
+      "type": "file",
+      "sizeBytes": 256,
+      "updatedAt": "2026-09-10T14:30:00Z",
+      "isHidden": true,
+      "extension": "env"
+    },
+    {
+      "name": "src",
+      "type": "folder",
+      "sizeBytes": null,
+      "updatedAt": "2026-09-12T09:15:00Z",
+      "isHidden": false,
+      "extension": null,
+      "contents": [
+        {
+          "name": "main.cpp",
+          "type": "file",
+          "sizeBytes": 4096,
+          "updatedAt": "2026-09-13T09:15:00Z",
+          "isHidden": false,
+          "extension": "cpp"
+        }
+      ]
+    },
+    {
+      "name": "README",
+      "type": "file",
+      "sizeBytes": 1024,
+      "updatedAt": "2026-09-11T11:00:00Z",
+      "isHidden": false,
+      "extension": null
+    }
+  ]
+}
